@@ -1,0 +1,13 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "server": "31.128.43.72",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "CMS",
+      "username": "cms_admin",
+      "database": "cms_db"
+    }
+  ]
+}
